@@ -2,18 +2,20 @@
 
 ## Create React Application and run application
 REFERENCE -https://www.w3schools.com/REACT/react_getstarted.asp
-
+```bash
 npx create-react-app ui-app
 cd ui-app
 npm start
 http://localhost:3000/
+```
 
 ## Run Application 
-
+```bash
 cd ui-app
 npm install
 npm start
 http://localhost:3000/
+```
 
 ## Tasks
 
